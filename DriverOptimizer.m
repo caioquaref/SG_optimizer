@@ -1,17 +1,3 @@
-% GOFAST Driver Optimizer
-% ========================================================================= 
-% =========================================================================
-%                  Finds the Best Driver Settings for the
-%                           GOFAST Driver Model
-%                     Using Constrained Minimization
-% =========================================================================
-%           Calculations are made in accordance with SAE J2951
-% =========================================================================
-%
-%   Milton Hubbard
-%   November 2019
-%   Auburn Hills, MI USA
-% =========================================================================
 clear all
 format shortEng
 format compact
